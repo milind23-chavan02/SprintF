@@ -1,0 +1,80 @@
+2022-11-05 10:43:32,460 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-05 10:43:32,546 - ScenarioOutlineExampleStep.py:[28] - [INFO] - Username Text Validated
+2022-11-05 10:43:32,931 - ScenarioOutlineExampleStep.py:[34] - [INFO] - Username field typed
+2022-11-05 10:43:33,277 - ScenarioOutlineExampleStep.py:[40] - [INFO] - Password Text Validated
+2022-11-05 10:43:33,467 - ScenarioOutlineExampleStep.py:[46] - [INFO] - Password field typed
+2022-11-05 10:43:37,138 - ScenarioOutlineExampleStep.py:[52] - [INFO] - Signin button clicked
+2022-11-05 10:43:43,206 - ScenarioOutlineExampleStep.py:[60] - [INFO] - Write mail text typed
+2022-11-05 10:43:43,505 - ScenarioOutlineExampleStep.py:[66] - [INFO] - Write Mail Clicked
+2022-11-05 10:43:50,288 - ScenarioOutlineExampleStep.py:[74] - [INFO] - To field typed
+2022-11-05 10:43:50,519 - ScenarioOutlineExampleStep.py:[81] - [INFO] - Subject field typed
+2022-11-05 10:43:50,873 - ScenarioOutlineExampleStep.py:[88] - [INFO] - Compose field typed
+2022-11-05 10:43:50,970 - ScenarioOutlineExampleStep.py:[95] - [INFO] - Send Button Clicked
+2022-11-05 10:43:55,574 - ScenarioOutlineExampleStep.py:[102] - [INFO] - Logout link clicked
+2022-11-05 10:44:14,592 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-05 10:44:14,682 - ScenarioOutlineExampleStep.py:[28] - [INFO] - Username Text Validated
+2022-11-05 10:44:14,886 - ScenarioOutlineExampleStep.py:[34] - [INFO] - Username field typed
+2022-11-05 10:44:14,959 - ScenarioOutlineExampleStep.py:[40] - [INFO] - Password Text Validated
+2022-11-05 10:44:15,478 - ScenarioOutlineExampleStep.py:[46] - [INFO] - Password field typed
+2022-11-05 10:44:18,255 - ScenarioOutlineExampleStep.py:[52] - [INFO] - Signin button clicked
+2022-11-05 10:44:24,334 - ScenarioOutlineExampleStep.py:[60] - [INFO] - Write mail text typed
+2022-11-05 10:44:24,485 - ScenarioOutlineExampleStep.py:[66] - [INFO] - Write Mail Clicked
+2022-11-05 10:44:31,309 - ScenarioOutlineExampleStep.py:[74] - [INFO] - To field typed
+2022-11-05 10:44:31,592 - ScenarioOutlineExampleStep.py:[81] - [INFO] - Subject field typed
+2022-11-05 10:44:31,899 - ScenarioOutlineExampleStep.py:[88] - [INFO] - Compose field typed
+2022-11-05 10:44:31,982 - ScenarioOutlineExampleStep.py:[95] - [INFO] - Send Button Clicked
+2022-11-05 10:44:35,093 - ScenarioOutlineExampleStep.py:[102] - [INFO] - Logout link clicked
+2022-11-05 15:25:23,033 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 15:38:37,173 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 15:48:13,933 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 15:56:23,942 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 15:58:32,529 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:04:51,599 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:16:21,140 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:21:22,816 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:27:50,243 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:46:29,536 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:50:28,498 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:56:05,031 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:58:00,956 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:58:01,677 - flipkartstep.py:[27] - [INFO] - Close button clicked
+2022-11-05 16:58:01,870 - flipkartstep.py:[33] - [INFO] - Login button clicked
+2022-11-05 16:58:02,151 - flipkartstep.py:[39] - [INFO] - Username field typed
+2022-11-05 16:58:02,390 - flipkartstep.py:[45] - [INFO] - Password field typed
+2022-11-05 16:59:52,281 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 16:59:52,471 - flipkartstep.py:[27] - [INFO] - Close button clicked
+2022-11-05 16:59:52,699 - flipkartstep.py:[33] - [INFO] - Login button clicked
+2022-11-05 16:59:52,959 - flipkartstep.py:[39] - [INFO] - Username field typed
+2022-11-05 16:59:53,176 - flipkartstep.py:[45] - [INFO] - Password field typed
+2022-11-05 16:59:53,282 - flipkartstep.py:[51] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-05 17:01:26,867 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 17:01:27,000 - flipkartstep.py:[27] - [INFO] - Close button clicked
+2022-11-05 17:01:27,224 - flipkartstep.py:[33] - [INFO] - Login button clicked
+2022-11-05 17:01:27,578 - flipkartstep.py:[39] - [INFO] - Username field typed
+2022-11-05 17:01:27,792 - flipkartstep.py:[45] - [INFO] - Password field typed
+2022-11-05 17:01:27,877 - flipkartstep.py:[51] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-05 17:27:23,053 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 17:30:05,065 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 17:30:06,029 - flipkartstep.py:[27] - [INFO] - Close button clicked
+2022-11-05 17:30:06,668 - flipkartstep.py:[33] - [INFO] - Login button clicked
+2022-11-05 17:30:08,578 - flipkartstep.py:[39] - [INFO] - Username field typed
+2022-11-05 17:30:09,063 - flipkartstep.py:[45] - [INFO] - Password field typed
+2022-11-05 17:30:09,157 - flipkartstep.py:[51] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-05 17:33:22,931 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 17:33:23,047 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-05 17:33:23,184 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-05 17:33:23,377 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-05 17:33:23,683 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-05 17:33:23,780 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-05 20:11:19,355 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 20:11:22,759 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-05 20:11:22,985 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-05 20:11:23,277 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-05 20:11:23,569 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-05 20:11:23,678 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-05 21:30:16,071 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-05 21:30:16,527 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-05 21:30:16,901 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-05 21:30:17,246 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-05 21:30:17,473 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-05 21:30:17,599 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
