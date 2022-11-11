@@ -1,0 +1,38 @@
+2022-11-09 16:41:52,707 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-09 16:42:00,063 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-09 16:42:02,659 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-09 16:42:08,688 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-09 16:42:09,658 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-09 16:42:10,009 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-09 16:52:21,216 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-09 16:52:21,425 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-09 16:52:21,559 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-09 16:52:21,762 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-09 16:52:21,950 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-09 16:52:22,065 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-09 22:20:57,617 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-09 22:21:02,468 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-09 22:21:04,067 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-09 22:21:09,714 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-09 22:21:10,397 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-09 22:21:10,551 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-09 22:23:01,459 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-09 22:23:01,578 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-09 22:23:01,719 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-09 22:23:01,957 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-09 22:23:02,138 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-09 22:23:02,254 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-09 22:23:05,215 - flipkartstep.py:[59] - [INFO] - text typed in searchbar
+2022-11-09 22:23:05,494 - flipkartstep.py:[64] - [INFO] - search button clicked
+2022-11-09 22:23:12,074 - flipkartstep.py:[69] - [INFO] - relavance option clicked
+2022-11-09 22:23:17,287 - flipkartstep.py:[73] - [INFO] - popularity option clicked
+2022-11-09 22:23:22,490 - flipkartstep.py:[78] - [INFO] - price to low option clicked
+2022-11-09 22:23:27,686 - flipkartstep.py:[83] - [INFO] - Price high-low option clicked
+2022-11-09 22:23:32,838 - flipkartstep.py:[88] - [INFO] - newest first option clicked
+2022-11-09 22:23:39,388 - flipkartstep.py:[92] - [INFO] - filters validated
+2022-11-09 22:23:46,329 - flipkartstep.py:[96] - [INFO] - min option clicked
+2022-11-09 22:23:46,448 - flipkartstep.py:[100] - [INFO] - high option clicked
+2022-11-09 22:23:47,274 - flipkartstep.py:[105] - [INFO] - assured checkbox selected
+2022-11-09 22:25:31,085 - flipkartstep.py:[110] - [INFO] - star rating chckbox clicked
+2022-11-09 22:25:51,380 - flipkartstep.py:[114] - [INFO] - brand checkbox clicked
+2022-11-09 22:26:01,563 - flipkartstep.py:[119] - [INFO] - image clicked

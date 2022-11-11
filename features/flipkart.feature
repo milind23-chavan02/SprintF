@@ -1,9 +1,8 @@
 # We will automate the Login page of FlipKart Account
   # As the number of rows present in EXAMPLE keyword, Feature file will run those number of times
-Feature: login flipkart
+Feature: Filter flipkart
     Scenario Outline: login data
       Given we navigate to flipkart homepage
-      #Then we click on close button
       When we click on the login button
       Then we type in the "<username>" edit box
       And we type in the "<password>" field
@@ -22,8 +21,6 @@ Feature: login flipkart
       And Click on rating checkbox 4* above and 3* above
       And click on brand option
       And click the image
-     # And click on the color option
-     # And click on discount
 
       Examples:
            | username | | password |     | searchTEXT  |
