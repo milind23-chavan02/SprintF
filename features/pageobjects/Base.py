@@ -180,20 +180,6 @@ class BaseSettingsPage:
     def StaticWait(self, timePeriod):
         time.sleep(timePeriod)
 
-    # # Explicit Wait
-    # def DynamicExplcitWait(self, locator, timePeriod):
-    #     global wait
-    #     wait = WebDriverWait(self.driver, timePeriod)
-    #     if str(locator).endswith("_XPATH"):
-    #         wait.until(EC.element_located_to_be_selected(By.XPATH, (configreader.ConfigReader("locators", locator))))
-    #     elif str(locator).endswith("_CSSSELECTOR"):
-    #         wait.until(EC.element_located_to_be_selected(By.CSS_SELECTOR, configreader.ConfigReader("locators", locator)))
-
-
-    # Assert based functions
-    # Assert by title of the page
-    # Assert by text present in an element - text property of Selenium - find text by any 8 locators
-    # Assert by the attribute value - use the get_attribute()
     def AssertTitle(self, extectedTitle):
         valTitle = self.driver.title
         assert valTitle == extectedTitle
@@ -224,35 +210,6 @@ class BaseSettingsPage:
             actualTextVal = self.driver.find_element_by_partial_link_text(configreader.ConfigReader("locators", locator)).text
             assert actualTextVal == expectedTextVal
 
-    # def dropDown(self,locator):
-    #     if str(locator).endswith("_XPATH"):
-    #         self.driver.find_element_by_id(configreader.ConfigReader("locators", locator)).click()
-
-
-
-    def TypeEditBoxEmail(self, locator, typeValue):
-        if str(locator).endswith("_ID"):
-            self.driver.find_element_by_id(configreader.ConfigReader("locators", locator)).click()
-            self.driver.find_element_by_id(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
-            self.driver.find_element_by_id(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_NAME"):
-            self.driver.find_element_by_name(configreader.ConfigReader("locators", locator)).click()
-            self.driver.find_element_by_name(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
-            self.driver.find_element_by_name(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_CLASS"):
-            self.driver.find_element_by_class_name(configreader.ConfigReader("locators", locator)).click()
-            self.driver.find_element_by_class_name(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
-            self.driver.find_element_by_class_name(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_XPATH"):
-            self.driver.find_element_by_xpath(configreader.ConfigReader("locators", locator)).click()
-            self.driver.find_element_by_xpath(configreader.ConfigReader("locators", locator)).send_keys(typeValue)
-            self.driver.find_element_by_xpath(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_CSSSELECTOR"):
-            self.driver.find_element_by_css_selector(configreader.ConfigReader("locators", locator)).click()
-            self.driver.find_element_by_css_selector(configreader.ConfigReader("locators", locator)).send_keys(
-                typeValue)
-            self.driver.find_element_by_css_selector(configreader.ConfigReader("locators", locator)).send_keys(
-                Keys.RETURN)
 
 
 

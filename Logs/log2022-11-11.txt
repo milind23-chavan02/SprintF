@@ -18,3 +18,89 @@
 2022-11-11 09:27:33,134 - flipkartstep.py:[110] - [INFO] - star rating chckbox clicked
 2022-11-11 09:27:53,837 - flipkartstep.py:[114] - [INFO] - brand checkbox clicked
 2022-11-11 09:28:04,876 - flipkartstep.py:[119] - [INFO] - image clicked
+2022-11-11 10:48:58,672 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-11 10:49:09,142 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-11 10:49:10,728 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-11 10:49:14,999 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-11 10:49:16,789 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-11 10:49:17,823 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-11 10:52:57,540 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-11 10:52:57,919 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-11 10:52:58,103 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-11 10:52:58,389 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-11 10:52:58,606 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-11 10:52:58,724 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-11 10:53:03,098 - flipkartstep.py:[59] - [INFO] - text typed in searchbar
+2022-11-11 10:53:08,218 - flipkartstep.py:[64] - [INFO] - search button clicked
+2022-11-11 10:53:13,464 - flipkartstep.py:[69] - [INFO] - relavance option clicked
+2022-11-11 10:53:18,708 - flipkartstep.py:[73] - [INFO] - popularity option clicked
+2022-11-11 10:53:23,947 - flipkartstep.py:[78] - [INFO] - price to low option clicked
+2022-11-11 10:53:29,219 - flipkartstep.py:[83] - [INFO] - Price high-low option clicked
+2022-11-11 10:53:34,433 - flipkartstep.py:[88] - [INFO] - newest first option clicked
+2022-11-11 10:53:39,978 - flipkartstep.py:[92] - [INFO] - filters validated
+2022-11-11 10:53:49,106 - flipkartstep.py:[96] - [INFO] - min option clicked
+2022-11-11 10:53:54,143 - flipkartstep.py:[100] - [INFO] - high option clicked
+2022-11-11 10:53:59,476 - flipkartstep.py:[105] - [INFO] - assured checkbox selected
+2022-11-11 10:55:40,509 - flipkartstep.py:[110] - [INFO] - star rating chckbox clicked
+2022-11-11 10:56:00,924 - flipkartstep.py:[114] - [INFO] - brand checkbox clicked
+2022-11-11 10:56:11,178 - flipkartstep.py:[119] - [INFO] - image clicked
+2022-11-11 10:57:54,940 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-11 10:57:55,123 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-11 10:57:56,406 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-11 10:57:58,665 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-11 10:57:59,298 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-11 10:57:59,507 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-11 10:58:04,518 - flipkartstep.py:[59] - [INFO] - text typed in searchbar
+2022-11-11 10:58:09,660 - flipkartstep.py:[64] - [INFO] - search button clicked
+2022-11-11 10:58:14,875 - flipkartstep.py:[69] - [INFO] - relavance option clicked
+2022-11-11 10:58:20,052 - flipkartstep.py:[73] - [INFO] - popularity option clicked
+2022-11-11 10:58:25,267 - flipkartstep.py:[78] - [INFO] - price to low option clicked
+2022-11-11 10:58:30,435 - flipkartstep.py:[83] - [INFO] - Price high-low option clicked
+2022-11-11 10:58:35,861 - flipkartstep.py:[88] - [INFO] - newest first option clicked
+2022-11-11 10:58:41,015 - flipkartstep.py:[92] - [INFO] - filters validated
+2022-11-11 10:58:49,786 - flipkartstep.py:[96] - [INFO] - min option clicked
+2022-11-11 10:58:54,830 - flipkartstep.py:[100] - [INFO] - high option clicked
+2022-11-11 10:59:00,104 - flipkartstep.py:[105] - [INFO] - assured checkbox selected
+2022-11-11 11:00:41,228 - flipkartstep.py:[110] - [INFO] - star rating chckbox clicked
+2022-11-11 11:01:01,594 - flipkartstep.py:[114] - [INFO] - brand checkbox clicked
+2022-11-11 11:01:11,925 - flipkartstep.py:[119] - [INFO] - image clicked
+2022-11-11 11:36:05,927 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-11 11:36:08,856 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-11 11:36:10,213 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-11 11:36:14,211 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-11 11:36:15,125 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-11 11:36:15,211 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-11 11:36:18,507 - flipkartstep.py:[59] - [INFO] - text typed in searchbar
+2022-11-11 11:36:23,628 - flipkartstep.py:[64] - [INFO] - search button clicked
+2022-11-11 11:36:28,842 - flipkartstep.py:[69] - [INFO] - relavance option clicked
+2022-11-11 11:36:34,010 - flipkartstep.py:[73] - [INFO] - popularity option clicked
+2022-11-11 11:36:39,183 - flipkartstep.py:[78] - [INFO] - price to low option clicked
+2022-11-11 11:36:44,444 - flipkartstep.py:[83] - [INFO] - Price high-low option clicked
+2022-11-11 11:36:49,633 - flipkartstep.py:[88] - [INFO] - newest first option clicked
+2022-11-11 11:36:55,109 - flipkartstep.py:[92] - [INFO] - filters validated
+2022-11-11 11:37:04,425 - flipkartstep.py:[96] - [INFO] - min option clicked
+2022-11-11 11:37:09,454 - flipkartstep.py:[100] - [INFO] - high option clicked
+2022-11-11 11:37:14,721 - flipkartstep.py:[105] - [INFO] - assured checkbox selected
+2022-11-11 11:38:55,575 - flipkartstep.py:[110] - [INFO] - star rating chckbox clicked
+2022-11-11 11:39:15,899 - flipkartstep.py:[114] - [INFO] - brand checkbox clicked
+2022-11-11 11:39:26,855 - flipkartstep.py:[119] - [INFO] - image clicked
+2022-11-11 11:41:18,339 - flipkartstep.py:[21] - [INFO] - Navigate to Flipkart Homepage
+2022-11-11 11:41:18,762 - flipkartstep.py:[23] - [INFO] - Close button clicked
+2022-11-11 11:41:20,469 - flipkartstep.py:[35] - [INFO] - Login button clicked
+2022-11-11 11:41:21,713 - flipkartstep.py:[41] - [INFO] - Username field typed
+2022-11-11 11:41:21,977 - flipkartstep.py:[47] - [INFO] - Password field typed
+2022-11-11 11:41:22,070 - flipkartstep.py:[53] - [INFO] - Sign IN BUTTON CLICKED
+2022-11-11 11:41:25,347 - flipkartstep.py:[59] - [INFO] - text typed in searchbar
+2022-11-11 11:41:30,481 - flipkartstep.py:[64] - [INFO] - search button clicked
+2022-11-11 11:41:35,712 - flipkartstep.py:[69] - [INFO] - relavance option clicked
+2022-11-11 11:41:40,958 - flipkartstep.py:[73] - [INFO] - popularity option clicked
+2022-11-11 11:41:46,153 - flipkartstep.py:[78] - [INFO] - price to low option clicked
+2022-11-11 11:41:51,695 - flipkartstep.py:[83] - [INFO] - Price high-low option clicked
+2022-11-11 11:41:58,382 - flipkartstep.py:[88] - [INFO] - newest first option clicked
+2022-11-11 11:42:03,532 - flipkartstep.py:[92] - [INFO] - filters validated
+2022-11-11 11:42:12,416 - flipkartstep.py:[96] - [INFO] - min option clicked
+2022-11-11 11:42:17,444 - flipkartstep.py:[100] - [INFO] - high option clicked
+2022-11-11 11:42:22,689 - flipkartstep.py:[105] - [INFO] - assured checkbox selected
+2022-11-11 11:44:03,571 - flipkartstep.py:[110] - [INFO] - star rating chckbox clicked
+2022-11-11 11:44:23,880 - flipkartstep.py:[114] - [INFO] - brand checkbox clicked
+2022-11-11 11:44:34,452 - flipkartstep.py:[119] - [INFO] - image clicked

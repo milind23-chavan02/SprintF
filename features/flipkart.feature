@@ -1,5 +1,6 @@
 # We will automate the Login page of FlipKart Account
-  # As the number of rows present in EXAMPLE keyword, Feature file will run those number of times
+# As the number of rows present in EXAMPLE keyword, Feature file will run those number of times
+
 Feature: Filter flipkart
     Scenario Outline: login data
       Given we navigate to flipkart homepage

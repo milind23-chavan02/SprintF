@@ -22,13 +22,6 @@ def step_imp1(context):
     context.reg.clickclose()
     log.logger.info("Close button clicked")
 
-
-#@Then(u'we click on close button')
-#def step_imp1(context):
-#    context.reg.clickclose()
- #   log.logger.info("Close button clicked")
-
-
 @When(u'we click on the login button')
 def step_imp1(context):
     context.reg.clicklogin()

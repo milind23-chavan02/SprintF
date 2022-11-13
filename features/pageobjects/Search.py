@@ -76,8 +76,7 @@ class Search(BaseSettingsPage):
     def rating(self):
         self.DynamicImplicitWait(40)
         self.driver.execute_script("window.scrollBy(0,400)")
-        # self.ClickCheckbox("check1_CSSSELECTOR")
-        time.sleep(20)
+        time.sleep(10)
         self.driver.find_element(By.CSS_SELECTOR, "div[title='4★ & above']").click()
         time.sleep(20)
         self.driver.find_element(By.CSS_SELECTOR, "div[title='3★ & above']").click()
