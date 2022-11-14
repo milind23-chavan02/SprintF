@@ -35,21 +35,6 @@ class BaseSettingsPage:
                 typeValue)
 
     # KeyWord Driver approach
-    #  https://www.selenium.dev/selenium/docs/api/py/webdriver/selenium.webdriver.common.keys.html?highlight=keys#module-selenium.webdriver.common.keys
-    def EnterButtonEditBoxEmail(self, locator):
-        if str(locator).endswith("_ID"):
-            self.driver.find_element_by_id(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_NAME"):
-            self.driver.find_element_by_name(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_CLASS"):
-            self.driver.find_element_by_class_name(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_XPATH"):
-            self.driver.find_element_by_xpath(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-        elif str(locator).endswith("_CSSSELECTOR"):
-            self.driver.find_element_by_css_selector(configreader.ConfigReader("locators", locator)).send_keys(Keys.RETURN)
-
-
-    # KeyWord Driver approach
     def ClickRadio(self, locator):
         global val
         if str(locator).endswith("_ID"):

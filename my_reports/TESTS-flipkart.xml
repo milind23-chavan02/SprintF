@@ -1,26 +1,26 @@
-<testsuite name="flipkart.Filter flipkart" tests="1" errors="0" failures="0" skipped="0" time="235.884999" timestamp="2022-11-13T20:25:58.959738" hostname="DESKTOP-UOC6O84"><testcase classname="flipkart.Filter flipkart" name="login data -- @1.1 " status="passed" time="235.884999"><system-out>
+<testsuite name="flipkart.flipkart" tests="1" errors="0" failures="0" skipped="0" time="231.283002" timestamp="2022-11-14T11:17:42.968419" hostname="DESKTOP-UOC6O84"><testcase classname="flipkart.flipkart" name="search and filters -- @1.1 " status="passed" time="231.283002"><system-out>
 <![CDATA[
 @scenario.begin
-  Scenario Outline: login data -- @1.1 
-    Given we navigate to flipkart homepage ... passed in 49.230s
-    When we click on the login button ... passed in 0.212s
-    Then we type in the "8867181165" edit box ... passed in 1.769s
-    And we type in the "Bhavika@123" field ... passed in 0.376s
-    Then we click on the sign in button ... passed in 0.100s
-    Then type "shirts" in search bar ... passed in 4.778s
-    And Click on search button ... passed in 7.004s
-    Then Check on Relevance is clickable ... passed in 5.399s
-    Then Check on popularity is clickable ... passed in 5.246s
-    Then Check on Price low-high is clickable ... passed in 5.229s
-    Then Check on Price high-low is clickable ... passed in 5.272s
-    Then Check on newest first is clickable ... passed in 5.260s
-    Then we validate for filter text ... passed in 5.077s
-    Then we select min price ... passed in 8.919s
-    And open GO links ... passed in 5.023s
-    And click assured checkbox ... passed in 5.256s
-    And Click on rating checkbox 4* above and 3* above ... passed in 91.103s
-    And click on brand option ... passed in 20.382s
-    And click the image ... passed in 10.250s
+  Scenario Outline: search and filters -- @1.1 
+    Given we navigate to flipkart homepage ... passed in 47.737s
+    When we click on the login button ... passed in 0.136s
+    Then we type in the "8867181165" edit box ... passed in 0.245s
+    And we type in the "Bhavika@123" field ... passed in 0.196s
+    Then we click on the sign in button ... passed in 0.117s
+    Then type "shirts" in search bar ... passed in 3.354s
+    And Click on search button ... passed in 5.144s
+    Then Check on Relevance is clickable ... passed in 5.286s
+    Then Check on popularity is clickable ... passed in 5.205s
+    Then Check on Price low-high is clickable ... passed in 5.318s
+    Then Check on Price high-low is clickable ... passed in 5.218s
+    Then Check on newest first is clickable ... passed in 5.226s
+    Then we validate for filter text ... passed in 5.080s
+    Then we select min price ... passed in 8.635s
+    And open GO links ... passed in 5.054s
+    And click assured checkbox ... passed in 5.229s
+    And Click on rating checkbox 4* above and 3* above ... passed in 90.951s
+    And click on brand option ... passed in 21.849s
+    And click the image ... passed in 11.303s
 
 @scenario.end
 --------------------------------------------------------------------------------

@@ -1,8 +1,8 @@
 # We will automate the Login page of FlipKart Account
 # As the number of rows present in EXAMPLE keyword, Feature file will run those number of times
 
-Feature: Filter flipkart
-    Scenario Outline: login data
+Feature:  flipkart
+    Scenario Outline: search and filters
       Given we navigate to flipkart homepage
       When we click on the login button
       Then we type in the "<username>" edit box

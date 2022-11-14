@@ -4,7 +4,7 @@
     {
       "keyword": "Scenario Outline",
       "location": "features/flipkart.feature:28",
-      "name": "login data -- @1.1 ",
+      "name": "search and filters -- @1.1 ",
       "status": "passed",
       "steps": [
         {
@@ -16,7 +16,7 @@
           },
           "name": "we navigate to flipkart homepage",
           "result": {
-            "duration": 52.485466718673706,
+            "duration": 53.48415684700012,
             "status": "passed"
           },
           "step_type": "given"
@@ -26,11 +26,11 @@
           "location": "features/flipkart.feature:7",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:32"
+            "location": "features/steps/flipkartstep.py:25"
           },
           "name": "we click on the login button",
           "result": {
-            "duration": 0.18184232711791992,
+            "duration": 0.1750190258026123,
             "status": "passed"
           },
           "step_type": "when"
@@ -45,11 +45,11 @@
                 "value": "8867181165"
               }
             ],
-            "location": "features/steps/flipkartstep.py:38"
+            "location": "features/steps/flipkartstep.py:31"
           },
           "name": "we type in the \"8867181165\" edit box",
           "result": {
-            "duration": 0.24242830276489258,
+            "duration": 0.27850937843322754,
             "status": "passed"
           },
           "step_type": "then"
@@ -64,11 +64,11 @@
                 "value": "Bhavika@123"
               }
             ],
-            "location": "features/steps/flipkartstep.py:44"
+            "location": "features/steps/flipkartstep.py:37"
           },
           "name": "we type in the \"Bhavika@123\" field",
           "result": {
-            "duration": 0.23038864135742188,
+            "duration": 0.2495131492614746,
             "status": "passed"
           },
           "step_type": "then"
@@ -78,11 +78,11 @@
           "location": "features/flipkart.feature:10",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:50"
+            "location": "features/steps/flipkartstep.py:43"
           },
           "name": "we click on the sign in button",
           "result": {
-            "duration": 0.3482530117034912,
+            "duration": 0.1633758544921875,
             "status": "passed"
           },
           "step_type": "then"
@@ -97,11 +97,11 @@
                 "value": "shirts"
               }
             ],
-            "location": "features/steps/flipkartstep.py:55"
+            "location": "features/steps/flipkartstep.py:48"
           },
           "name": "type \"shirts\" in search bar",
           "result": {
-            "duration": 4.173624753952026,
+            "duration": 3.3406543731689453,
             "status": "passed"
           },
           "step_type": "then"
@@ -111,11 +111,11 @@
           "location": "features/flipkart.feature:12",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:61"
+            "location": "features/steps/flipkartstep.py:54"
           },
           "name": "Click on search button",
           "result": {
-            "duration": 5.180282115936279,
+            "duration": 5.194660425186157,
             "status": "passed"
           },
           "step_type": "then"
@@ -125,11 +125,11 @@
           "location": "features/flipkart.feature:13",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:66"
+            "location": "features/steps/flipkartstep.py:59"
           },
           "name": "Check on Relevance is clickable",
           "result": {
-            "duration": 5.271966457366943,
+            "duration": 5.235289812088013,
             "status": "passed"
           },
           "step_type": "then"
@@ -139,11 +139,11 @@
           "location": "features/flipkart.feature:14",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:70"
+            "location": "features/steps/flipkartstep.py:63"
           },
           "name": "Check on popularity is clickable",
           "result": {
-            "duration": 5.2940521240234375,
+            "duration": 5.205729246139526,
             "status": "passed"
           },
           "step_type": "then"
@@ -153,11 +153,11 @@
           "location": "features/flipkart.feature:15",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:75"
+            "location": "features/steps/flipkartstep.py:68"
           },
           "name": "Check on Price low-high is clickable",
           "result": {
-            "duration": 5.215807676315308,
+            "duration": 5.518953561782837,
             "status": "passed"
           },
           "step_type": "then"
@@ -167,11 +167,11 @@
           "location": "features/flipkart.feature:16",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:80"
+            "location": "features/steps/flipkartstep.py:73"
           },
           "name": "Check on Price high-low is clickable",
           "result": {
-            "duration": 5.322242498397827,
+            "duration": 5.3561553955078125,
             "status": "passed"
           },
           "step_type": "then"
@@ -181,11 +181,11 @@
           "location": "features/flipkart.feature:17",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:85"
+            "location": "features/steps/flipkartstep.py:78"
           },
           "name": "Check on newest first is clickable",
           "result": {
-            "duration": 5.165998458862305,
+            "duration": 5.341602802276611,
             "status": "passed"
           },
           "step_type": "then"
@@ -195,11 +195,11 @@
           "location": "features/flipkart.feature:18",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:89"
+            "location": "features/steps/flipkartstep.py:82"
           },
           "name": "we validate for filter text",
           "result": {
-            "duration": 5.2695324420928955,
+            "duration": 5.269402742385864,
             "status": "passed"
           },
           "step_type": "then"
@@ -209,11 +209,11 @@
           "location": "features/flipkart.feature:19",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:93"
+            "location": "features/steps/flipkartstep.py:86"
           },
           "name": "we select min price",
           "result": {
-            "duration": 8.794837951660156,
+            "duration": 8.648324251174927,
             "status": "passed"
           },
           "step_type": "then"
@@ -223,11 +223,11 @@
           "location": "features/flipkart.feature:20",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:97"
+            "location": "features/steps/flipkartstep.py:90"
           },
           "name": "open GO links",
           "result": {
-            "duration": 5.02336049079895,
+            "duration": 5.064759016036987,
             "status": "passed"
           },
           "step_type": "then"
@@ -237,11 +237,11 @@
           "location": "features/flipkart.feature:21",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:102"
+            "location": "features/steps/flipkartstep.py:95"
           },
           "name": "click assured checkbox",
           "result": {
-            "duration": 5.290959358215332,
+            "duration": 5.653735160827637,
             "status": "passed"
           },
           "step_type": "then"
@@ -251,11 +251,11 @@
           "location": "features/flipkart.feature:22",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:107"
+            "location": "features/steps/flipkartstep.py:100"
           },
           "name": "Click on rating checkbox 4* above and 3* above",
           "result": {
-            "duration": 90.88567471504211,
+            "duration": 90.87149977684021,
             "status": "passed"
           },
           "step_type": "then"
@@ -265,11 +265,11 @@
           "location": "features/flipkart.feature:23",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:111"
+            "location": "features/steps/flipkartstep.py:104"
           },
           "name": "click on brand option",
           "result": {
-            "duration": 20.45849370956421,
+            "duration": 20.32306981086731,
             "status": "passed"
           },
           "step_type": "then"
@@ -279,11 +279,11 @@
           "location": "features/flipkart.feature:24",
           "match": {
             "arguments": [],
-            "location": "features/steps/flipkartstep.py:116"
+            "location": "features/steps/flipkartstep.py:109"
           },
           "name": "click the image",
           "result": {
-            "duration": 10.299579620361328,
+            "duration": 10.239015579223633,
             "status": "passed"
           },
           "step_type": "then"
@@ -295,7 +295,7 @@
   ],
   "keyword": "Feature",
   "location": "features/flipkart.feature:4",
-  "name": "Filter flipkart",
+  "name": "flipkart",
   "status": "passed",
   "tags": []
 }
